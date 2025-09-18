@@ -1,4 +1,4 @@
-erraform Module to provision an AWS EC2 instance with the latest Amazon Linux 2023 ami and install Docker on it.
+Terraform Module to provision an AWS EC2 instance with the latest Amazon Linux 2023 ami and install Docker on it.
 
 Not intended for production use. It is an example module.
 
